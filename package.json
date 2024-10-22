@@ -1,0 +1,11 @@
+{
+  "name": "repro-deno-global-install-package-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@std/log": "npm:@jsr/std__log@^0.224.9"
+  }
+}
